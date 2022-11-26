@@ -3,11 +3,9 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=an921645699&theme=dark&layout=compact)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=an921645699&show_icons=true&theme=dark&count_private=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an921645699&show_icons=true&theme=transparent)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=an921645699&repo=github-readme-stats)](https://github.com/an921645699/DSF-AYF)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=an921645699&repo=github-readme-stats)](https://github.com/an921645699/cloud)
 
 
 
