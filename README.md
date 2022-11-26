@@ -12,10 +12,5 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=an921645699&show_icons=true&theme=dark&count_private=true)
 
-
-
-
-
 ![](https://activity-graph.herokuapp.com/graph?username=an921645699&theme=github)
 
-![](https://stats.justsong.cn/api/csdn?id=安冉冄先森&theme=dark)
