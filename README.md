@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=an921645699&repo=github-readme-stats)](https://github.com/an921645699/DSF-AYF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an921645699)](https://github.com/an921645699/DSF-AYF)
