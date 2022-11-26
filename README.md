@@ -1,6 +1,8 @@
 ### Hi 🎉 Welcome to AnnYF's Github Homepage!
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=an921645699&theme=dark&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an921645699&show_icons=true&theme=transparent)
 
 
